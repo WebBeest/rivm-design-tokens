@@ -1,13 +1,12 @@
 {
   "name": "@web-beest/rivm-design-tokens",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1-alpha.1",
   "author": "Community for NL Design System",
   "description": "RIVM design tokens",
   "license": "SEE LICENSE IN LICENSE.md",
   "keywords": [
     "nl-design-system"
   ],
-  "private": true,
   "publishConfig": {
     "access": "public"
   },
