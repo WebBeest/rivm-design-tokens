@@ -1,0 +1,238 @@
+{
+  "rivm": {
+    "border-radius": {
+      "sm": "3px",
+      "md": "5px",
+      "xl": "10px"
+    },
+    "color": {
+      "robijn": "#CA005D",
+      "robijn-150": "#F7D9E7",
+      "robijn-300": "#EFB2CE",
+      "robijn-450": "#E78CB6",
+      "robijn-600": "#DF669D",
+      "robijn-750": "#D74085",
+      "hemelblauw": "#007BC7",
+      "hemelblauw-150": "#D9EBF7",
+      "hemelblauw-300": "#B3D7EE",
+      "hemelblauw-450": "#8CC4E6",
+      "hemelblauw-600": "#66B0DD",
+      "hemelblauw-750": "#409CD5",
+      "logoblauw": "#154273",
+      "logoblauw-150": "#DCE3EA",
+      "logoblauw-300": "#B9C7D5",
+      "logoblauw-450": "#95AAC0",
+      "logoblauw-600": "#738EAB",
+      "logoblauw-750": "#507196",
+      "lichtblauw": "#8FCAE7",
+      "lichtblauw-150": "#EEF7FC",
+      "lichtblauw-300": "#DEF0F8",
+      "lichtblauw-450": "#CCE7F4",
+      "lichtblauw-600": "#BCDFF1",
+      "lichtblauw-750": "#ABD7ED",
+      "donkerblauw": "#01689b",
+      "donkerblauw-150": "#D9E9F0",
+      "donkerblauw-300": "#B3D2E1",
+      "donkerblauw-450": "#8CBBD2",
+      "donkerblauw-600": "#67A4C3",
+      "donkerblauw-750": "#418EB4",
+      "oranje": "#E17000",
+      "oranje-150": "#FBEAD9",
+      "oranje-300": "#F6D4B3",
+      "oranje-450": "#F1BF8C",
+      "oranje-600": "#EDA966",
+      "oranje-750": "#E89440",
+      "groen": "#39870C",
+      "groen-150": "#E2EDDB",
+      "groen-300": "#C4DBB7",
+      "groen-450": "#A6C991",
+      "groen-600": "#88B76D",
+      "groen-750": "#6BA549",
+      "donkergeel": "#FFB612",
+      "donkergeel-150": "#FFF4DB",
+      "donkergeel-300": "#FFE9B8",
+      "donkergeel-450": "#FFDE94",
+      "donkergeel-600": "#FFD371",
+      "donkergeel-750": "#FFC84D",
+      "geel": "#F9E11E",
+      "geel-150": "#FEFBDD",
+      "geel-300": "#FDF6BB",
+      "geel-450": "#FCF199",
+      "geel-600": "#FBED78",
+      "geel-750": "#FAE856",
+      "rood": "#D51B1E",
+      "rood-150": "#F9DFDD",
+      "rood-300": "#F3C0BC",
+      "rood-450": "#EC9F99",
+      "rood-600": "#E68078",
+      "rood-750": "#E06056",
+      "grijs-050": "#F8FAFC",
+      "grijs-100": "#F1F5F9",
+      "grijs-200": "#E2E8F0",
+      "grijs-300": "#CBD5E1",
+      "grijs-400": "#94A3B8",
+      "grijs-500": "#64748B",
+      "grijs-600": "#475569",
+      "grijs-700": "#334155",
+      "grijs-800": "#1E293B",
+      "grijs-900": "#0F172A",
+      "zwart": "#000000",
+      "wit": "#FFFFFF"
+    },
+    "size": {
+      "3xs": "2px",
+      "2xs": "4px",
+      "xs": "8px",
+      "sm": "12px",
+      "md": "16px",
+      "lg": "18px",
+      "xl": "24px",
+      "2xl": "32px",
+      "3xl": "64px",
+      "4xl": "128px"
+    },
+    "space": {
+      "3xs": "2px",
+      "2xs": "4px",
+      "xs": "8px",
+      "sm": "12px",
+      "md": "16px",
+      "lg": "18px",
+      "xl": "24px",
+      "2xl": "32px",
+      "3xl": "64px",
+      "4xl": "128px"
+    },
+    "font": {
+      "sans-serif": {
+        "font-family": "'RijksoverheidSansWebText'"
+      },
+      "sans-serif-fallback": {
+        "font-family": "'Verdana', 'Calibri', 'Arial', sans-serif"
+      },
+      "serif": {
+        "font-family": "'RijksoverheidSerifWeb'"
+      },
+      "serif-fallback": {
+        "font-family": "'Times New Roman', serif"
+      }
+    },
+    "font-size": {
+      "2xs": "0.625rem",
+      "xs": "0.75rem",
+      "sm": "0.875rem",
+      "md": "1rem",
+      "lg": "1.125rem",
+      "xl": "1.25rem",
+      "2xl": "1.5rem",
+      "3xl": "2rem",
+      "4xl": "3rem"
+    },
+    "font-weight": {
+      "normal": "400",
+      "semibold": "550",
+      "bold": "700",
+      "extrabold": "800"
+    },
+    "line-height": {
+      "sm": "125%",
+      "md": "150%",
+      "lg": "175%"
+    }
+  },
+  "utrecht": {
+    "button": {
+      "background-color": "#CA005D",
+      "border-bottom-color": {},
+      "border-bottom-width": {},
+      "border-color": {},
+      "border-radius": {},
+      "border-width": "0",
+      "color": {},
+      "hover-color": "#D74085",
+      "font-size": {},
+      "font-weight": {},
+      "inline-size": {},
+      "letter-spacing": {},
+      "line-height": "24px",
+      "margin-block-end": {},
+      "margin-block-start": {},
+      "margin-inline-end": {},
+      "margin-inline-start": {},
+      "min-block-size": {},
+      "min-inline-size": {},
+      "padding-block-start": {},
+      "padding-block-end": {},
+      "padding-inline-start": {},
+      "padding-inline-end": {},
+      "text-transform": {},
+      "primary-action": {
+        "background-color": "#CA005D",
+        "border-color": "#CA005D",
+        "border-width": "1px",
+        "color": {},
+        "active": {
+          "background-color": {},
+          "border-color": {}
+        },
+        "focus": {
+          "background-color": "#D74085",
+          "border-color": "#D74085"
+        },
+        "hover": {
+          "background-color": "#D74085",
+          "border-color": "#D74085"
+        },
+        "disabled": {
+          "border-color": {},
+          "background-color": {},
+          "color": {}
+        }
+      },
+      "secondary-action": {
+        "background-color": "#FFFFFF",
+        "border-color": "#CA005D",
+        "border-width": "1px",
+        "color": "#CA005D",
+        "active": {
+          "background-color": "#CA005D",
+          "border-color": "#CA005D",
+          "color": "#FFFFFF"
+        },
+        "focus": {
+          "color": "#CA005D",
+          "border-color": {},
+          "border-width": {}
+        },
+        "disabled": {
+          "background-color": {},
+          "border-color": {},
+          "color": {}
+        },
+        "hover": {
+          "color": "#D51B1E",
+          "background-color": "#FFFFFF",
+          "border-color": "#D51B1E"
+        }
+      },
+      "subtle": {
+        "font-weight": "700",
+        "color": "#D51B1E",
+        "active": {
+          "color": "#D51B1E"
+        },
+        "focus": {
+          "color": "#D51B1E",
+          "border-color": {},
+          "border-width": {}
+        },
+        "disabled": {
+          "color": "#CBD5E1"
+        },
+        "hover": {
+          "text-decoration": "underline"
+        }
+      }
+    }
+  }
+}
