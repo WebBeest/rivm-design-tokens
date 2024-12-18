@@ -1,0 +1,28 @@
+{
+  "utrecht": {
+    "button": {
+      "rivm-tertiary-action": {
+        "background-color": { "value": "transparent" },
+        "border-color": {},
+        "border-width": { "value": "0" },
+        "color": { "value": "{rivm.color.hemelblauw}" },
+        "font-weight": { "value": "{rivm.font-weight.bold}" },
+        "active": {
+          "color": { "value": "{rivm.color.donkerblauw}" }
+        },
+        "hover": {
+          "color": { "value": "{rivm.color.donkerblauw}" },
+          "text-decoration": { "value": "underline" }
+        },
+        "disabled": {
+          "border-color": {},
+          "background-color": { "value": "transparent" },
+          "color": { "value": "{rivm.color.grijs-300}" }
+        },
+        "focus": {
+          "color": { "value": "{rivm.color.hemelblauw}" }
+        }
+      }
+    }
+  }
+}
