@@ -1,0 +1,22 @@
+{
+  "name": "@web-beest/rivm-assets",
+  "version": "0.0.1-alpha.0",
+  "description": "Assets for RIVM Rijkshuisstijl theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/WebBeest/rivm-assets.git"
+  },
+  "keywords": [
+    "nl-design-system"
+  ],
+  "author": "Patrick C. Kannekens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebBeest/rivm-assets/issues"
+  },
+  "homepage": "https://github.com/WebBeest/rivm-assets#readme"
+}
