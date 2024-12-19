@@ -11,6 +11,9 @@
   "keywords": [
     "nl-design-system"
   ],
+  "publishConfig": {
+    "access": "public" 
+  },
   "author": "Patrick C. Kannekens",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
